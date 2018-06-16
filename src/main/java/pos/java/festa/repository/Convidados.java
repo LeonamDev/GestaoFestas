@@ -12,6 +12,6 @@ import pos.java.festa.model.Convidado;
  *
  * @author DesenvolvedorJava
  */
-public interface Convidados  extends JpaRepository<Convidado, Long>{
-    
+public interface Convidados extends JpaRepository<Convidado, Long> {
+
 }
